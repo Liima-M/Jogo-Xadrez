@@ -1,0 +1,14 @@
+BoardGame\Piece.class
+Aplication\Programa.class
+BoardGame\Position.class
+Chess\ChessException.class
+BoardGame\Board.class
+Chess\Color.class
+Aplication\UI.class
+Chess\ChessPiece.class
+Chess\ChessPosition.class
+BoardGame\BoardException.class
+Chess\Piece\King.class
+Chess\Piece\Rook.class
+Chess\ChessMatch.class
+Chess\Piece\Pawn.class
