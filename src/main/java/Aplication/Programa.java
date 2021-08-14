@@ -48,5 +48,6 @@ public class Programa {
         
         UI.clearScreen();
         UI.printMatch(chessMatch, captured);
+        
     }
 }

@@ -60,7 +60,11 @@ public class Pawn extends ChessPiece{
                 mat[p.getRow()][p.getColumn()] = true;
             }
         }
-        return null;
+        return mat;
     }
     
+    @Override
+    public String toString(){
+        return "p";
+    }
 }
